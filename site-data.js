@@ -7,7 +7,7 @@ window.SITE_DATA = {
   phoneHref: "++91 93923 38256",
   whatsappDisplay: "+91 00000 00000",
   whatsappNumber: "910000000000",
-  address: "NH-216, Cherukupalli - Bapatla main road, Above Om sri Ganesh Lakshmi Narayana medicals, Opp. Paaparao Hospital road", Cherukupalli, Bapatla(DT). Andhra Pradesh. 522309
+  address: "NH-216, Cherukupalli - Bapatla main road, Above Om sri Ganesh Lakshmi Narayana medicals, Opp. Paaparao Hospital road", Cherukupalli, Bapatla(DT). Andhra Pradesh. 522309"
   mapQuery: "Sri Venkateswara Homeo Stores",
   heroImage: "assets/hero-homeopathy.png",
   photos: [
