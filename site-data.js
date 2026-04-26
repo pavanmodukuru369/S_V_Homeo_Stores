@@ -4,11 +4,11 @@ window.SITE_DATA = {
   practitionerName: "M. Venkata Hanumantha Rao",
   logoImage: "assets/sv-logo.png",
   phoneDisplay: "+91 93923 38256",
-  phoneHref: "++91 93923 38256",
-  whatsappDisplay: "+91 00000 00000",
-  whatsappNumber: "910000000000",
-  address: "NH-216, Cherukupalli - Bapatla main road, Above Om sri Ganesh Lakshmi Narayana medicals, Opp. Paaparao Hospital road", Cherukupalli, Bapatla(DT). Andhra Pradesh. 522309"
-  mapQuery: "Sri Venkateswara Homeo Stores",
+  phoneHref: "+919392338256",
+  whatsappDisplay: "+91 93923 38256",
+  whatsappNumber: "919392338256",
+  address: "NH-216, Cherukupalli - Bapatla main road, Above Om sri Ganesh Lakshmi Narayana medicals, Opp. Paaparao Hospital road, Cherukupalli, Bapatla(DT). Andhra Pradesh. 522309",
+  mapQuery: "Sri Venkateswara Homeo Stores Cherukupalli",
   heroImage: "assets/hero-homeopathy.png",
   photos: [
     {
