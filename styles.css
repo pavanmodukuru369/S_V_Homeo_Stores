@@ -68,9 +68,9 @@ img {
 
 .brand-mark {
   display: grid;
-  width: 58px;
-  height: 58px;
-  flex: 0 0 58px;
+  width: 72px;
+  height: 72px;
+  flex: 0 0 72px;
   place-items: center;
 }
 
@@ -87,15 +87,15 @@ img {
 }
 
 .brand strong {
-  max-width: 260px;
-  font-size: 1.08rem;
-  line-height: 1.05;
+  max-width: 320px;
+  font-size: 1.3rem;
+  line-height: 1.2;
 }
 
 .brand small {
   margin-top: 3px;
   color: currentColor;
-  font-size: 0.73rem;
+  font-size: 0.85rem;
   opacity: 0.78;
 }
 
