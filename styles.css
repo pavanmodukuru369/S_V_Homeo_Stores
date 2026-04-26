@@ -928,3 +928,20 @@ summary {
     flex-direction: column;
   }
 }
+/* Fix for the Hero Heading text wrapping and sizing */
+h1.main-title {
+  font-size: clamp(2.2rem, 6vw, 5.5rem); 
+}
+
+h1.main-title .store-subtitle {
+  font-size: 0.6em; /* Makes Homeo Stores 40% smaller than the top line */
+  display: inline-block;
+  margin-top: 8px;
+}
+
+/* Specific fix for mobile screens to prevent breaking */
+@media (max-width: 760px) {
+  h1.main-title {
+    font-size: clamp(2.1rem, 9vw, 3.5rem); 
+  }
+}
