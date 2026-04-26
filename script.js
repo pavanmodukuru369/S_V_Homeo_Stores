@@ -22,10 +22,8 @@ const renderEditableContent = () => {
   setText("[data-site-name]", siteData.storeName);
   setText("[data-practitioner-name]", siteData.practitionerName);
   setText("[data-phone-display]", siteData.phoneDisplay);
-  setText("[data-whatsapp-display]", siteData.whatsappDisplay);
   setText("[data-address]", siteData.address);
   setAttr("[data-phone-link]", "href", `tel:${siteData.phoneHref}`);
-  setAttr("[data-whatsapp-link]", "href", `https://wa.me/${siteData.whatsappNumber}`);
 
   if (siteData.storeName) {
     document.title = `${siteData.storeName} | Trusted Homeopathy Care`;
