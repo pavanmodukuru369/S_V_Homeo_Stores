@@ -9,7 +9,7 @@ window.SITE_DATA = {
   mapQuery: "Sri Venkateswara Homeo Stores Cherukupalli",
   heroImage: "assets/hero-homeopathy.png",
   photos: [
-    ,
+    
     {
       src: "assets/photos/real1.jpg",
       alt: "Sri Venkateswara Homeo Stores real photo 1",
