@@ -9,6 +9,37 @@ window.SITE_DATA = {
   mapQuery: "Sri Venkateswara Homeo Stores Cherukupalli",
   heroImage: "assets/hero-homeopathy.png",
   photos: [
+    ,
+    {
+      src: "assets/photos/real1.jpg",
+      alt: "Sri Venkateswara Homeo Stores real photo 1",
+      title: "Clinic Interior"
+    },
+    {
+      src: "assets/photos/real2.jpg",
+      alt: "Sri Venkateswara Homeo Stores real photo 2",
+      title: "Medicine Collection"
+    },
+    {
+      src: "assets/photos/real3.jpg",
+      alt: "Sri Venkateswara Homeo Stores real photo 3",
+      title: "Store View"
+    },
+    {
+      src: "assets/photos/real4.jpg",
+      alt: "Sri Venkateswara Homeo Stores real photo 4",
+      title: "Homeopathy Medicines"
+    },
+    {
+      src: "assets/photos/real5.jpg",
+      alt: "Sri Venkateswara Homeo Stores real photo 5",
+      title: "Consultation Area"
+    },
+    {
+      src: "assets/photos/real6.jpg",
+      alt: "Sri Venkateswara Homeo Stores real photo 6",
+      title: "Clinic Setup"
+    },
     {
       src: "assets/photos/gallary1.jpg",
       alt: "Sri Venkateswara Homeo Stores medicine shelves and counter",
