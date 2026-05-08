@@ -9,52 +9,53 @@ window.SITE_DATA = {
   mapQuery: "Sri Venkateswara Homeo Stores Cherukupalli",
   heroImage: "hero-homeopathy.png",
   photos: [
-    {
-      src: "gallary1.jpg",
-      alt: "Sri Venkateswara Homeo Stores medicine shelves and counter",
-      title: "Store Counter"
-    },
-    {
-      src: "gallary2.jpg",
-      alt: "Homeopathy medicine boxes arranged on shelves",
-      title: "Medicine Shelves"
-    },
-    {
-      src: "gallary3.jpg",
-      alt: "Homeopathy bottles and medicines stocked in the store",
-      title: "Homeopathy Stock"
-    },
-    {
-      src: "real1.jpg",
-      alt: "Sri Venkateswara Homeo Stores real photo 1",
-      title: "Clinic Interior"
-    },
-    {
-      src: "real2.jpg",
-      alt: "Sri Venkateswara Homeo Stores real photo 2",
-      title: "Medicine Collection"
-    },
-    {
-      src: "real3.jpg",
-      alt: "Sri Venkateswara Homeo Stores real photo 3",
-      title: "Store View"
-    },
-    {
-      src: "real4.jpg",
-      alt: "Sri Venkateswara Homeo Stores real photo 4",
-      title: "Homeopathy Medicines"
-    },
-    {
-      src: "real5.jpg",
-      alt: "Sri Venkateswara Homeo Stores real photo 5",
-      title: "Consultation Area"
-    },
-    {
-      src: "real6.jpg",
-      alt: "Sri Venkateswara Homeo Stores real photo 6",
-      title: "Clinic Setup"
-    }
-  ],
+  {
+    image: "assets/photos/gallary1.jpg",
+    alt: "Sri Venkateswara Homeo Stores medicine shelves and counter",
+    title: "Store Counter"
+  },
+  {
+    image: "assets/photos/gallary2.jpg",
+    alt: "Homeopathy medicine boxes arranged on shelves",
+    title: "Medicine Shelves"
+  },
+  {
+    image: "assets/photos/gallary3.jpg",
+    alt: "Homeopathy bottles and medicines stocked in the store",
+    title: "Homeopathy Stock"
+  },
+
+  {
+    image: "assets/photos/real1.jpg",
+    alt: "Sri Venkateswara Homeo Stores real photo 1",
+    title: "Clinic Interior"
+  },
+  {
+    image: "assets/photos/real2.jpg",
+    alt: "Sri Venkateswara Homeo Stores real photo 2",
+    title: "Medicine Collection"
+  },
+  {
+    image: "assets/photos/real3.jpg",
+    alt: "Sri Venkateswara Homeo Stores real photo 3",
+    title: "Store View"
+  },
+  {
+    image: "assets/photos/real4.jpg",
+    alt: "Sri Venkateswara Homeo Stores real photo 4",
+    title: "Homeopathy Medicines"
+  },
+  {
+    image: "assets/photos/real5.jpg",
+    alt: "Sri Venkateswara Homeo Stores real photo 5",
+    title: "Consultation Area"
+  },
+  {
+    image: "assets/photos/real6.jpg",
+    alt: "Sri Venkateswara Homeo Stores real photo 6",
+    title: "Clinic Setup"
+  }
+],
   testimonials: [
     {
       quote: "A dependable place for homeopathy medicines and patient guidance.",
