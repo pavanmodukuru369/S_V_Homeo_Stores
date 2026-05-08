@@ -8,8 +8,24 @@ window.SITE_DATA = {
   address: "NH-216, Cherukupalli - Bapatla main road, Above Om sri Ganesh Lakshmi Narayana medicals, Opp. Paaparao Hospital road, Cherukupalli, Bapatla(DT). Andhra Pradesh. 522309",
   mapQuery: "Sri Venkateswara Homeo Stores Cherukupalli",
   heroImage: "assets/hero-homeopathy.png",
+
   photos: [
-    
+    {
+      src: "assets/photos/gallary1.jpg",
+      alt: "Sri Venkateswara Homeo Stores medicine shelves and counter",
+      title: "Store Counter"
+    },
+    {
+      src: "assets/photos/gallary2.jpg",
+      alt: "Homeopathy medicine boxes arranged on shelves",
+      title: "Medicine Shelves"
+    },
+    {
+      src: "assets/photos/gallary3.jpg",
+      alt: "Homeopathy bottles and medicines stocked in the store",
+      title: "Homeopathy Stock"
+    },
+
     {
       src: "assets/photos/real1.jpg",
       alt: "Sri Venkateswara Homeo Stores real photo 1",
@@ -39,23 +55,9 @@ window.SITE_DATA = {
       src: "assets/photos/real6.jpg",
       alt: "Sri Venkateswara Homeo Stores real photo 6",
       title: "Clinic Setup"
-    },
-    {
-      src: "assets/photos/gallary1.jpg",
-      alt: "Sri Venkateswara Homeo Stores medicine shelves and counter",
-      title: "Store Counter"
-    },
-    {
-      src: "assets/photos/gallary2.jpg",
-      alt: "Homeopathy medicine boxes arranged on shelves",
-      title: "Medicine Shelves"
-    },
-    {
-      src: "assets/photos/gallary3.jpg",
-      alt: "Homeopathy bottles and medicines stocked in the store",
-      title: "Homeopathy Stock"
     }
   ],
+
   testimonials: [
     {
       quote: "A dependable place for homeopathy medicines and patient guidance.",
