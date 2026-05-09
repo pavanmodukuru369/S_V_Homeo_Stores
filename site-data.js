@@ -4,10 +4,10 @@ window.SITE_DATA = {
   practitionerName: "M. Venkata Hanumantha Rao",
   logoImage: "assets/sv-logo.png",
   phoneDisplay: "+91 93923 38256",
-  phoneHref: "++91 93923 38256",
-  whatsappDisplay: "+91 00000 00000",
-  whatsappNumber: "910000000000",
-  address: "NH-216, Cherukupalli - Bapatla main road, Above Om sri Ganesh Lakshmi Narayana medicals, Opp. Paaparao Hospital road", Cherukupalli, Bapatla(DT). Andhra Pradesh. 522309
+  phoneHref: "+919392338256",
+  whatsappDisplay: "+91 93923 38256",
+  whatsappNumber: "919392338256",
+  address: "NH-216, Cherukupalli - Bapatla main road, Above Om Sri Ganesh Lakshmi Narayana Medicals, Opp. Paaparao Hospital Road, Cherukupalli, Bapatla, Andhra Pradesh 522309",
   mapQuery: "Sri Venkateswara Homeo Stores",
   heroImage: "assets/hero-homeopathy.png",
   photos: [
@@ -25,6 +25,36 @@ window.SITE_DATA = {
       src: "assets/photos/gallary3.jpg",
       alt: "Homeopathy bottles and medicines stocked in the store",
       title: "Homeopathy Stock"
+    },
+    {
+      src: "assets/photos/real1.jpg",
+      alt: "Real store photo showing medicine shelves and stock",
+      title: "Store View 1"
+    },
+    {
+      src: "assets/photos/real2.jpg",
+      alt: "Real clinic shelf photo with homeopathy products",
+      title: "Store View 2"
+    },
+    {
+      src: "assets/photos/real3.jpg",
+      alt: "Real stock photo showing homeopathy medicine bottles",
+      title: "Store View 3"
+    },
+    {
+      src: "assets/photos/real4.jpg",
+      alt: "Real store close-up of homeopathy products",
+      title: "Product Display 1"
+    },
+    {
+      src: "assets/photos/real5.jpg",
+      alt: "Real close-up photo of medicine drops and bottle",
+      title: "Product Display 2"
+    },
+    {
+      src: "assets/photos/real6.jpg",
+      alt: "Real close-up photo of homeopathy pills and bottle",
+      title: "Product Display 3"
     }
   ],
   testimonials: [
