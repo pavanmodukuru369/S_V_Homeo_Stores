@@ -20,6 +20,10 @@ const setAttr = (selector, attr, value) => {
 
 const renderEditableContent = () => {
   setText("[data-site-name]", siteData.storeName);
+  const heroTitle = document.querySelector("[data-hero-title]");
+  if (heroTitle && siteData.storeName) {
+    heroTitle.innerHTML = "<span>Sri Venkateswara</span><span>Homeo Stores</span>";
+  }
   setText("[data-practitioner-name]", siteData.practitionerName);
   setText("[data-phone-display]", siteData.phoneDisplay);
   setText("[data-whatsapp-display]", siteData.whatsappDisplay);

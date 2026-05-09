@@ -68,9 +68,9 @@ img {
 
 .brand-mark {
   display: grid;
-  width: 72px;
-  height: 72px;
-  flex: 0 0 72px;
+  width: 58px;
+  height: 58px;
+  flex: 0 0 58px;
   place-items: center;
 }
 
@@ -87,15 +87,15 @@ img {
 }
 
 .brand strong {
-  max-width: 320px;
-  font-size: 1.3rem;
-  line-height: 1.2;
+  max-width: 260px;
+  font-size: 1.08rem;
+  line-height: 1.05;
 }
 
 .brand small {
   margin-top: 3px;
   color: currentColor;
-  font-size: 0.85rem;
+  font-size: 0.73rem;
   opacity: 0.78;
 }
 
@@ -206,6 +206,15 @@ h3 {
 h1 {
   max-width: 720px;
   font-size: clamp(3.4rem, 8vw, 7.5rem);
+}
+
+.hero-title {
+  display: grid;
+  gap: 10px;
+}
+
+.hero-title span {
+  display: block;
 }
 
 h2 {
@@ -926,22 +935,5 @@ summary {
 
   .trust-item {
     flex-direction: column;
-  }
-}
-/* Fix for the Hero Heading text wrapping and sizing */
-h1.main-title {
-  font-size: clamp(2.2rem, 6vw, 5.5rem); 
-}
-
-h1.main-title .store-subtitle {
-  font-size: 0.6em; /* Makes Homeo Stores 40% smaller than the top line */
-  display: inline-block;
-  margin-top: 8px;
-}
-
-/* Specific fix for mobile screens to prevent breaking */
-@media (max-width: 760px) {
-  h1.main-title {
-    font-size: clamp(2.1rem, 9vw, 3.5rem); 
   }
 }
